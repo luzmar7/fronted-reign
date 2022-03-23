@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 1440px;
+  height: 1024px;
+  padding: 0 0 98px;
+  background-color: #fcfcfc;
 }
 
 code {
@@ -24,4 +28,7 @@ h2 {
   letter-spacing: normal;
   color: #3b3b3b
 
+}
+
+.Front-End-Test---Home-view {
 }

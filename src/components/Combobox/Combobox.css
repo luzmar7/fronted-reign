@@ -1,0 +1,27 @@
+.Rectangle-26-Copy-23 {
+  width: 240px;
+  height: 32px;
+  margin: 63px 114px 1px 150px;
+  padding: 5px 12px 5px 12px;
+  border-radius: 4px;
+  border: solid 1px #2e2e2e;
+  background-color: #fff;
+}
+
+.Rectangle-26-Copy-23 option {
+  width: 240px;
+  height: 46px;
+  margin: 45px 1px 48px 0;
+  padding: 6px 89px 10px 11px;
+  opacity: 0.2;
+  background-color: gre;
+  background-image:url(./img/image-138.png);
+}
+
+select img.Image-140 {
+  width: 24px;
+  height: 24px;
+  margin: 6px 13px 0 0;
+  object-fit: contain;
+}
+
